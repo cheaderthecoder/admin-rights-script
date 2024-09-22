@@ -10,7 +10,14 @@
 
     <h1 class="title">Steam unlock</h1>
 
+    <div class="cta package">
+        <h2>Download unlock package</h2>
+        <p>Download Steam + script</p>
+        <button onclick="DownloadPackage()">Download</button>
+    </div>
+
     <div class="container">
+
         <div class="cta">
             <h2>Download steam official</h2>
             <p>Download steam setup to test the script and download it with admin rights</p>
@@ -27,6 +34,10 @@
     <script>
         function download_script() {
             window.location.href = "https://github.com/cheaderthecoder/admin-rights-script/blob/main/unlock.bat";
+        }
+
+        function DownloadPackage(){
+            window.location.href = "https://github.com/cheaderthecoder/admin-rights-script/releases/latest";
         }
 
         function download() {

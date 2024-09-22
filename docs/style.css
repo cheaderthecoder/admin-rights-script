@@ -73,6 +73,11 @@ Cards
     color: var(--primary-text);
 }
 
+.package{
+    padding: 40px auto;
+    margin-bottom: 20px;
+}
+
 /*
 Buttons
 */
