@@ -74,6 +74,11 @@ Cards
 }
 
 .package{
+    color: var(--primary-text);
+    background-color: var(--secondary-bg);
+    border-radius: 5px;
+    
+    text-align: center;
     padding: 40px auto;
     margin-bottom: 20px;
 }
