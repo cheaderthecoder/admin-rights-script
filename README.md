@@ -15,7 +15,7 @@ Usage
 ## To use this repository 
 Its very simple! first go to [unlock.zip](https://github.com/cheaderthecoder/admin-rights-script/releases/latest) download and unzip it, Then when the download is done move the unlock.bat file and the app that needs admin rights to the same directory.
 
-after that right click the bat file (unblock.bat) and edit "SteamSetup.exe" in the file to the exact name of the program, THIS IS CASE SENSETIVE SO BE CAREFUL, save the file and then double click it and BOOM you have the file as running admin, or if just want to download steam then double click the bat file and run it and you should be good to go.
+after that right click the bat file (unblock.bat) and edit "SteamSetup.exe" in the file to the exact name of the program, THIS IS CASE SENSETIVE SO BE CAREFUL, save the file and then double click it and BOOM you have the file running as admin, or if just want to download steam then double click the bat file and run it and you should be good to go.
 
 
 ### Batch Script Details
