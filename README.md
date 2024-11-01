@@ -8,7 +8,7 @@ This repository contains a simple batch script (unlock.bat), that allows users t
     SteamSetup.exe: The official Steam installer executable.
 
 ## Description
-The purpose of this repository is to provide a quick way to install applications without needing admin rights. This is especially useful for users in restricted environments where they do not have administrator access, such as shared computers, school, or work environments.
+The purpose of this repository is to provide a quick way to install applications without needing admin rights. This is especially useful for users in restricted environments where they do not have administrator access.
 Usage
 
 
